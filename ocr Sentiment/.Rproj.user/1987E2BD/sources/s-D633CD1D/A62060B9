@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1522064045597.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A62060B9",
+    "lastKnownWriteTime" : 1522064062,
+    "last_content_update" : 1522064062430,
+    "path" : "~/Documents/Somil Bhaiya/ocr Sentiment/testsentiment.R",
+    "project_path" : "testsentiment.R",
+    "properties" : {
+        "cursorPosition" : "111,0",
+        "scrollLine" : "81"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

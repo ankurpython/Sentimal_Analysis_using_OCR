@@ -1,0 +1,1 @@
+python ocr.py -i "index.png"
